@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evm_machine_using_(switch  statement)", "evm_machine_using_(switch  statement)\evm_machine_using_(switch  statement).csproj", "{27684E11-B0D8-4BDC-83E5-A8A29D2D694C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27684E11-B0D8-4BDC-83E5-A8A29D2D694C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27684E11-B0D8-4BDC-83E5-A8A29D2D694C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27684E11-B0D8-4BDC-83E5-A8A29D2D694C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27684E11-B0D8-4BDC-83E5-A8A29D2D694C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3610CD9E-C1AA-45DA-9019-E79A1F0D5A3F}
+	EndGlobalSection
+EndGlobal
